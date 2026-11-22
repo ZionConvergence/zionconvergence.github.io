@@ -352,3 +352,4 @@ body.soi-ended .g.after{display:flex}
 .formnote{font-size:13px;margin-top:12px;opacity:.85}
 .formnote a{color:inherit;font-weight:700}
 .soi-hero .done-note{color:var(--green)}
+.about-solo{max-width:780px}
