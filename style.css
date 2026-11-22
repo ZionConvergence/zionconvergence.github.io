@@ -353,3 +353,6 @@ body.soi-ended .g.after{display:flex}
 .formnote a{color:inherit;font-weight:700}
 .soi-hero .done-note{color:var(--green)}
 .about-solo{max-width:780px}
+.founded-line{display:flex;flex-direction:column;align-items:center;gap:6px;margin:28px auto 0;padding-top:22px;border-top:1px solid rgba(196,162,101,.35);max-width:360px}
+.founded-line span{color:var(--gold);font-size:.8rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase}
+.founded-line i{color:var(--cream);opacity:.85;font-family:'Cormorant Garamond',serif;font-size:1.15rem}
