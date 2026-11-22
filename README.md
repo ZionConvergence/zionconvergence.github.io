@@ -2,7 +2,7 @@
 
 The official website of Zion Convergence, a prophetic prayer and discipleship community.
 
-Live site: https://zionconvergence.github.io/
+Live site: https://zionconvergence.org/
 
 ## Updating the monthly theme
 Open `script.js`, find `THEMES`, and add a line for the new month, for example:
