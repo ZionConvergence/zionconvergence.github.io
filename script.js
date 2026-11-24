@@ -88,7 +88,7 @@
   }
 
   // after the first School of Intimacy cohort
-  if(new Date()>wat(2026,11,12,17,0)) document.body.classList.add('soi-ended');
+  if(new Date()>wat(2026,11,12,17,0)){document.querySelectorAll('template.after-tpl').forEach(function(t){t.replaceWith(t.content.cloneNode(true));});document.body.classList.add('soi-ended');}
 
   // SOI week status
   var now2=new Date(), marked=false;
